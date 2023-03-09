@@ -18,6 +18,7 @@ int main()
 
     //3.) this is when expression3 is optional
     // adding comments
+    // adding more comments
     int i,j;
     for(i=0,j=0;i<3,j<5;){
         printf("%d %d\n",i,j);
