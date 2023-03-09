@@ -1,4 +1,4 @@
-#include <stdio.h>
+i#include <stdio.h>
 
 int main()
 {
@@ -17,6 +17,7 @@ int main()
     // return 0;
 
     //3.) this is when expression3 is optional
+    // adding comments
     int i,j;
     for(i=0,j=0;i<3,j<5;){
         printf("%d %d\n",i,j);
